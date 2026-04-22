@@ -432,7 +432,7 @@ head= insert(head,x,y);
 // for changing rand everytime    
 srand(time(NULL));
 
-    char str[1000];
+    char str[100000];
 
 // initializing screen
     initscr();
