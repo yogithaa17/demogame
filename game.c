@@ -11,7 +11,7 @@ void inpath(char str[])
     int i = 0;
     char p;
 
-    while ((p= getch()) != '\n'  && i < 999)
+    while ((p= getch()) != '\n'  && i < 99999)
     {
         str[i++] = p;
     }
