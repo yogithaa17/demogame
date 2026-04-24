@@ -1,3 +1,4 @@
+
 # demogame
 STRING-DRIVEN SNAKE GAME (Similar to the Nokia Snake Game)
 This program implements a Snake Game in C using the ncurses library. The game is primarily luck-based because the position of the food is randomized.
